@@ -5,3 +5,6 @@ Basics of HTML and CSS for UI Development
 
 # 2. Responsive Grid: 
 <img width="783" height="648" alt="Screenshot 2026-07-10 at 11 06 27 PM" src="https://github.com/user-attachments/assets/d32e8db4-576e-4c3a-bb67-648d1308c231" />
+
+# 3. Grid Area:
+<img width="753" height="457" alt="Screenshot 2026-07-13 at 1 28 26 PM" src="https://github.com/user-attachments/assets/6a20d7f1-5eb7-400f-affe-5e3c9c3c7544" />
