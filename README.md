@@ -14,3 +14,7 @@ Basics of HTML and CSS for UI Development
 
 # 5. Grid Layout:
 <img width="1262" height="810" alt="Screenshot 2026-07-13 at 3 57 10 PM" src="https://github.com/user-attachments/assets/c2403577-340c-45d9-a4a6-25f774c88156" />
+
+# 6. Advanced Flex:
+<img width="727" height="726" alt="Screenshot 2026-07-13 at 9 49 03 PM" src="https://github.com/user-attachments/assets/af7ed88c-3811-4726-980c-9713e619004f" />
+
